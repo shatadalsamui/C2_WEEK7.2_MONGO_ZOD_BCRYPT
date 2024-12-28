@@ -49,7 +49,3 @@ npm start
 - Zod
 - bcrypt
 - Express.js
-
-## License
-
-MIT
